@@ -1,2 +1,2 @@
-print("hello",end="")  # hello
-print("world") # world
+print("hello", end="")  # hello
+print("world")  # world
